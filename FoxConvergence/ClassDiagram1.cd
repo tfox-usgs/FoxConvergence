@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Fox.Converge">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Members>
+      <Field Name="_Converged" Hidden="true" />
+      <Field Name="_CurrentValue" Hidden="true" />
+      <Field Name="_High" Hidden="true" />
+      <Field Name="_IterationCount" Hidden="true" />
+      <Field Name="_Low" Hidden="true" />
+      <Field Name="_Tolerance" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Fox.Converge.Hint">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QFAAAAAAAAACBgAAAAAUEAAAAAAAAAAAQAgAAAAAAUA=</HashCode>
+      <FileName>Class1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
